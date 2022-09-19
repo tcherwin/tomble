@@ -1,9 +1,36 @@
-# Vue Wordle
+# TOMBLE, a Locked Tomb Word Game
 
-[Live demo](https://vue-wordle.netlify.app/)
+               ______
+            .-"      "-.
+           /     IV       \
+          |              |
+          |,  .-.  .-.  ,|
+          | )(__/  \__)( |
+          |/     /\     \|
+          (_     ^^     _)
+           \__|IIIIII|__/
+            | \IIIIII/ |
+            \          /
+             `--------`
 
-A Vue implementation of the [Wordle game](https://www.powerlanguage.co.uk/wordle/). This is just for fun and doesn't aim to 100% replicate the original.
+Based off of the wonderful [vue-wordle](https://github.com/yyx990803/vue-wordle).
 
-You can make your own Wordle and send it to friends by base64-encoding a word and include it as the URL query, e.g. https://vue-wordle.netlify.app/?YmxpbXA= (this will also allow words that are not in the dictionary.)
+## Why didn't you call this Griddle???
 
-This repository is open sourced for learning purposes only - the original creator(s) of Wordle own all applicable rights to the game itself.
+Frankly, I was torn.
+
+## Source material
+
+Five-letter words from *Gideon the Ninth* and *Harrow the Ninth*, both by the amazing Tamsyn Muir. Short stories and Nona the Ninth are forthcoming
+
+## Notes on valid words
+
+Five-letter words, including proper nouns, are valid.
+
+Words that only exist in the text as compound-adjectives are disregarded, therefore Cam's slate-brown hair sadly does not contribute to the wordlist.
+
+"Made-up" words from the book are included - I "fealt" the books hard, so I follow their lead ;)
+
+I am accumulating a list of manual exceptions for five letter words - for example,  "sotto" from sotto voce doesn't work on its own
+
+Copyright, acknowledgement, and pronunciation guide is excluded from the word list.
