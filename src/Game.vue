@@ -113,7 +113,12 @@ function completeRow() {
       setTimeout(() => {
         grid = genResultGrid()
         showMessage(
-          ['Genius', 'Magnificent', 'Impressive', 'Splendid', 'Great', 'Phew'][
+          ['First flower of my house', 
+          'Two is for discipline, heedless of trial', 
+          'Three for the gleam of a jewel or a smile', 
+          'Four for fidelity, facing ahead', 
+          'Five for tradition and debts to the dead', 
+          'Six for the truth over solace in lies'][
             currentRowIndex
           ],
           -1
