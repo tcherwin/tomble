@@ -155,9 +155,9 @@ function shake() {
 }
 
 const icons = {
-  [LetterState.CORRECT]: '🟩',
-  [LetterState.PRESENT]: '🟨',
-  [LetterState.ABSENT]: '⬜',
+  [LetterState.CORRECT]: '🥝',
+  [LetterState.PRESENT]: '😎',
+  [LetterState.ABSENT]: '💀',
   [LetterState.INITIAL]: null
 }
 
@@ -179,10 +179,12 @@ function genResultGrid() {
     </div>
   </Transition>
   <header>
-    <h1>VVORDLE</h1>
+    <h1>TOMBLE</h1>
+    <h3>One for the Emperor, first of us all</h3>
+
     <a
       id="source-link"
-      href="https://github.com/yyx990803/vue-wordle"
+      href="https://github.com/tcherwin/tomble"
       target="_blank"
       >Source</a
     >
@@ -216,6 +218,7 @@ function genResultGrid() {
     </div>
   </div>
   <Keyboard @key="onKey" :letter-states="letterStates" />
+  <small>Gratefully based off of <a href="https://github.com/yyx990803/vue-wordle">vue-wordle</a></small>
 </template>
 
 <style scoped>
@@ -265,6 +268,8 @@ function genResultGrid() {
   animation: zoom 0.2s;
 }
 .tile .front,
+
+
 .tile .back {
   box-sizing: border-box;
   display: inline-flex;
