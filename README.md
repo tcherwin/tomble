@@ -21,7 +21,7 @@ Frankly, I was torn.
 
 ## Source material
 
-Five-letter words from *Gideon the Ninth*, *Harrow the Ninth*, and and  *Nona the Ninth*, all by the amazing Tamsyn Muir, copyright Tamsyn Muir and published by *Tordotcom*. Words from the short stories "As Yet Unsent" and "The Mysterious Study of Dr. Sex" are forthcoming
+Five-letter words from *Gideon the Ninth*, *Harrow the Ninth*, and *Nona the Ninth*, all by the amazing Tamsyn Muir, copyright Tamsyn Muir and published by *Tordotcom*. Words from the short stories "As Yet Unsent" and "The Mysterious Study of Dr. Sex" are forthcoming
 
 ## Notes on valid words
 
