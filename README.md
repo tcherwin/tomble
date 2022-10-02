@@ -39,7 +39,4 @@ Five-letter words from *Gideon the Ninth*, *Harrow the Ninth*, and and  *Nona th
 
 **Sotto from sotto voce is invalid** I can't think of a good way to categorize this, it just didn't seem right on its own
 
-
-I am accumulating a list of manual exceptions for five letter words - for example,  "sotto" from sotto voce doesn't work on its own
-
-Copyright, acknowledgement, and pronunciation guide is excluded from the word list.
+**Copyright, acknowledgement, and pronunciation guide words are invalid**
