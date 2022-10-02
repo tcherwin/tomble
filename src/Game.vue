@@ -17,6 +17,7 @@ const board = $ref(
   )
 )
 
+
 // Current active row.
 let currentRowIndex = $ref(0)
 const currentRow = $computed(() => board[currentRowIndex])
@@ -152,6 +153,10 @@ function showMessage(msg: string, time = 1000) {
   }
 }
 
+function displayRules() {
+  showMessage('These are da rules')
+}
+
 function shake() {
   shakeRowIndex = currentRowIndex
   setTimeout(() => {
@@ -186,7 +191,7 @@ function genResultGrid() {
   <header>
     <h1>TOMBLE</h1>
     <h3>One for the Emperor, first of us all</h3>
-
+    <button type="button" id="rules-popup" @click="displayRules" >Da Rules</button>
     <a
       id="source-link"
       href="https://github.com/tcherwin/tomble"

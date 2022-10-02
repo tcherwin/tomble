@@ -16,6 +16,12 @@ header {
   position: relative;
 }
 
+#rules-popup {
+  position: absolute;
+  left: 0;
+  top: 0.5em;
+}
+
 #source-link {
   position: absolute;
   right: 1em;
