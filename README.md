@@ -29,7 +29,7 @@ Five-letter words from *Gideon the Ninth*, *Harrow the Ninth*, and and  *Nona th
 
 **Kiwi language, spelling, and slang terms are valid** Of course ;)
 
-**Character slang and invented language is valid** Invented language (e.g. *necro*) and character slang (e.g. *fealt*) I "fealt" are valid words.
+**Character slang and invented language is valid** Invented language (e.g. *necro*) and character slang (e.g. *fealt*)  are valid words.
 
 **Compound-adjectives are invalid** Words that only exist in the text as compound-adjectives are disregarded, therefore Cam's slate-brown hair sadly does not contribute to the wordlist.
 
